@@ -1,4 +1,4 @@
-# Image-Video-Detection
+# Image-Video-Object-Detection
 
 ## Code Overview:
 The provided code sample integrates YOLOv3 with OpenCV to perform object detection on either an image or a video stream.
